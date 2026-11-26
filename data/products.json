@@ -1,0 +1,352 @@
+[
+  {
+    "id": "PROD-001",
+    "name": "Wireless Bluetooth Headphones",
+    "price": 67.99,
+    "stock": 66,
+    "category": "Electronics"
+  },
+  {
+    "id": "PROD-002",
+    "name": "USB-C Fast Charger",
+    "price": 16.49,
+    "stock": 23,
+    "category": "Electronics"
+  },
+  {
+    "id": "PROD-003",
+    "name": "Wireless Mouse",
+    "price": 33.25,
+    "stock": 79,
+    "category": "Electronics"
+  },
+  {
+    "id": "PROD-004",
+    "name": "Mechanical Keyboard",
+    "price": 92,
+    "stock": 34,
+    "category": "Electronics"
+  },
+  {
+    "id": "PROD-005",
+    "name": "Portable Power Bank",
+    "price": 48.99,
+    "stock": 31,
+    "category": "Electronics"
+  },
+  {
+    "id": "PROD-006",
+    "name": "Smart LED Bulb",
+    "price": 12.99,
+    "stock": 52,
+    "category": "Electronics"
+  },
+  {
+    "id": "PROD-007",
+    "name": "HD Webcam 1080p",
+    "price": 45.25,
+    "stock": 57,
+    "category": "Electronics"
+  },
+  {
+    "id": "PROD-008",
+    "name": "Bluetooth Portable Speaker",
+    "price": 54,
+    "stock": 84,
+    "category": "Electronics"
+  },
+  {
+    "id": "PROD-009",
+    "name": "Men's Cotton T-Shirt",
+    "price": 18.25,
+    "stock": 32,
+    "category": "Clothing"
+  },
+  {
+    "id": "PROD-010",
+    "name": "Women's Casual Kurti",
+    "price": 29.49,
+    "stock": 2,
+    "category": "Clothing"
+  },
+  {
+    "id": "PROD-011",
+    "name": "Denim Jeans",
+    "price": 39,
+    "stock": 66,
+    "category": "Clothing"
+  },
+  {
+    "id": "PROD-012",
+    "name": "Formal Shirt",
+    "price": 26.99,
+    "stock": 37,
+    "category": "Clothing"
+  },
+  {
+    "id": "PROD-013",
+    "name": "Cotton Hoodie",
+    "price": 44.49,
+    "stock": 5,
+    "category": "Clothing"
+  },
+  {
+    "id": "PROD-014",
+    "name": "Men's Chino Trousers",
+    "price": 40,
+    "stock": 48,
+    "category": "Clothing"
+  },
+  {
+    "id": "PROD-015",
+    "name": "Lightweight Knit Cardigan",
+    "price": 46.49,
+    "stock": 48,
+    "category": "Clothing"
+  },
+  {
+    "id": "PROD-016",
+    "name": "Organic Green Tea",
+    "price": 11.25,
+    "stock": 35,
+    "category": "Grocery"
+  },
+  {
+    "id": "PROD-017",
+    "name": "Premium Coffee Beans",
+    "price": 22.25,
+    "stock": 11,
+    "category": "Grocery"
+  },
+  {
+    "id": "PROD-018",
+    "name": "Whole Wheat Flour",
+    "price": 8.75,
+    "stock": 20,
+    "category": "Grocery"
+  },
+  {
+    "id": "PROD-019",
+    "name": "Cooking Oil",
+    "price": 9.49,
+    "stock": 38,
+    "category": "Grocery"
+  },
+  {
+    "id": "PROD-020",
+    "name": "Raw Wildflower Honey",
+    "price": 13.49,
+    "stock": 30,
+    "category": "Grocery"
+  },
+  {
+    "id": "PROD-021",
+    "name": "Basmati Long Grain Rice",
+    "price": 9.99,
+    "stock": 55,
+    "category": "Grocery"
+  },
+  {
+    "id": "PROD-022",
+    "name": "Extra Virgin Olive Oil",
+    "price": 16,
+    "stock": 12,
+    "category": "Grocery"
+  },
+  {
+    "id": "PROD-023",
+    "name": "Stainless Steel Water Bottle",
+    "price": 21.25,
+    "stock": 27,
+    "category": "Home & Kitchen"
+  },
+  {
+    "id": "PROD-024",
+    "name": "Ceramic Coffee Mug",
+    "price": 12.75,
+    "stock": 48,
+    "category": "Home & Kitchen"
+  },
+  {
+    "id": "PROD-025",
+    "name": "Kitchen Storage Container",
+    "price": 23,
+    "stock": 22,
+    "category": "Home & Kitchen"
+  },
+  {
+    "id": "PROD-026",
+    "name": "Electric Kettle",
+    "price": 28.49,
+    "stock": 27,
+    "category": "Home & Kitchen"
+  },
+  {
+    "id": "PROD-027",
+    "name": "Non-Stick Frying Pan",
+    "price": 36.99,
+    "stock": 32,
+    "category": "Home & Kitchen"
+  },
+  {
+    "id": "PROD-028",
+    "name": "Bamboo Cutting Board",
+    "price": 16,
+    "stock": 3,
+    "category": "Home & Kitchen"
+  },
+  {
+    "id": "PROD-029",
+    "name": "Digital Kitchen Scale",
+    "price": 19.49,
+    "stock": 30,
+    "category": "Home & Kitchen"
+  },
+  {
+    "id": "PROD-030",
+    "name": "Face Wash",
+    "price": 7.99,
+    "stock": 0,
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "PROD-031",
+    "name": "Moisturizing Cream",
+    "price": 17.99,
+    "stock": 9,
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "PROD-032",
+    "name": "Sunscreen Lotion",
+    "price": 15,
+    "stock": 56,
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "PROD-033",
+    "name": "Herbal Shampoo",
+    "price": 11.75,
+    "stock": 0,
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "PROD-034",
+    "name": "Vitamin C Facial Serum",
+    "price": 16.49,
+    "stock": 36,
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "PROD-035",
+    "name": "Shea Butter Body Lotion",
+    "price": 11.99,
+    "stock": 58,
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "PROD-036",
+    "name": "Yoga Mat",
+    "price": 30.25,
+    "stock": 5,
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": "PROD-037",
+    "name": "Resistance Bands",
+    "price": 13.99,
+    "stock": 26,
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": "PROD-038",
+    "name": "Sports Water Bottle",
+    "price": 10.99,
+    "stock": 45,
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": "PROD-039",
+    "name": "Jump Rope Pro",
+    "price": 12.25,
+    "stock": 0,
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": "PROD-040",
+    "name": "Foam Roller",
+    "price": 27.49,
+    "stock": 68,
+    "category": "Sports & Fitness"
+  },
+  {
+    "id": "PROD-041",
+    "name": "Leather Bi-Fold Wallet",
+    "price": 31.99,
+    "stock": 79,
+    "category": "Accessories"
+  },
+  {
+    "id": "PROD-042",
+    "name": "Polarized Sunglasses",
+    "price": 38,
+    "stock": 55,
+    "category": "Accessories"
+  },
+  {
+    "id": "PROD-043",
+    "name": "Laptop Backpack 15.6\"",
+    "price": 62.99,
+    "stock": 35,
+    "category": "Accessories"
+  },
+  {
+    "id": "PROD-044",
+    "name": "Braided Nylon Watch Strap",
+    "price": 13.49,
+    "stock": 0,
+    "category": "Accessories"
+  },
+  {
+    "id": "PROD-045",
+    "name": "Canvas Tote Bag",
+    "price": 15.49,
+    "stock": 16,
+    "category": "Accessories"
+  },
+  {
+    "id": "PROD-046",
+    "name": "A4 Notebook",
+    "price": 6.99,
+    "stock": 71,
+    "category": "Stationery"
+  },
+  {
+    "id": "PROD-047",
+    "name": "Ballpoint Pen Set",
+    "price": 7,
+    "stock": 47,
+    "category": "Stationery"
+  },
+  {
+    "id": "PROD-048",
+    "name": "Office File Organizer",
+    "price": 14,
+    "stock": 0,
+    "category": "Stationery"
+  },
+  {
+    "id": "PROD-049",
+    "name": "Sticky Notes Multipack",
+    "price": 4.75,
+    "stock": 61,
+    "category": "Stationery"
+  },
+  {
+    "id": "PROD-050",
+    "name": "Desk Pen Holder",
+    "price": 13,
+    "stock": 7,
+    "category": "Stationery"
+  }
+]
